@@ -1,0 +1,6 @@
+﻿Pregunta,Tipo,Opción1,Opción2,Opción3,Respuesta
+¿Qué es la seguridad informática?,multiple,Proteger equipos de daños físicos,Proteger la información y sistemas digitales,Evitar el uso de internet,Proteger la información y sistemas digitales
+¿Cuál de estos es un tipo de ataque informático?,multiple,Phishing,Firewall,Antivirus,Phishing
+¿Qué hace un virus informático?,multiple,Protege los archivos,Copia datos sin permiso,Corrompe o altera archivos y programas,Corrompe o altera archivos y programas
+¿Qué es el phishing?,multiple,Un método para mejorar la red,Una técnica de pesca digital,Un tipo de fraude donde se suplanta a una entidad legítima,Un tipo de fraude donde se suplanta a una entidad legítima
+¿Qué herramienta protege contra ataques externos?,multiple,Phishing,Fake news,Firewall,Firewall
